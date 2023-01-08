@@ -2,3 +2,4 @@
 using ArrayAlgorithms;
 
 LinearSearch.ExecuteAlgorithm();
+BinarySearch.ExecuteAlgorithm();
