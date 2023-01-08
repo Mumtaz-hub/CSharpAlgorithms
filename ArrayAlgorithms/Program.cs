@@ -3,3 +3,6 @@ using ArrayAlgorithms;
 
 LinearSearch.ExecuteAlgorithm();
 BinarySearch.ExecuteAlgorithm();
+AggregateAndFilter.ExecuteAlgorithm();
+ReverseArray.ExecuteAlgorithm();
+RotateArray.ExecuteAlgorithm();
