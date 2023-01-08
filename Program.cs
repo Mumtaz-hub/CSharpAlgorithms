@@ -5,3 +5,4 @@ ValidateString.executeAlgorithms();
 NormalizeString.executeAlgorithm();
 ParseAndSearch.executeAlgorithm();
 ReverseString.ExecuteAlgorithm();
+ReverseEachWordOfSentence.ExecuteAlgorithm();
