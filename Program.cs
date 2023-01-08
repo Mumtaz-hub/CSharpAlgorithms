@@ -4,3 +4,4 @@ using StringAlgorithms;
 ValidateString.executeAlgorithms();
 NormalizeString.executeAlgorithm();
 ParseAndSearch.executeAlgorithm();
+ReverseString.ExecuteAlgorithm();
