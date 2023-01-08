@@ -2,3 +2,4 @@
 using StringAlgorithms;
 
 ValidateString.executeAlgorithms();
+NormalizeString.executeAlgorithm();
